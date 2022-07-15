@@ -1,0 +1,35 @@
+.button
+{
+    border-color: white;
+    color: white;
+}
+
+.button:hover
+{
+    background-color: #c9d0c8;
+    border-color: white;
+    color: black;
+}
+
+.body 
+{
+    background-color: #c9d0c8;
+
+}
+
+.input:hover
+{
+    border-color:#c9d0c8
+}
+
+.navbar
+{
+    background-color: black;
+    padding: 20px;
+}
+
+.tbody 
+{
+    font-size: 20px;
+}
+
